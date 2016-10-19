@@ -1,1 +1,1 @@
-简单的时钟web显示用到js
+a simple clock show uisng html and javascript
